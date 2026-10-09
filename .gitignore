@@ -1,0 +1,17 @@
+# ===== 环境与密钥 =====
+.env
+
+# ===== Python =====
+.venv/
+__pycache__/
+*.py[cod]
+
+# ===== IDE =====
+.idea/
+.DS_Store
+
+# ===== 运行产物（不提交）=====
+logs/
+chat_history/
+chroma_db/
+md5.text

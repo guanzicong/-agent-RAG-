@@ -1,0 +1,21 @@
+# ============ Web 界面 ============
+streamlit
+
+# ============ LangChain / LangGraph 核心 ============
+langchain
+langchain-core
+langchain-community
+langchain-chroma
+langchain-text-splitters
+langgraph
+
+# ============ 大模型 SDK ============
+dashscope
+
+# ============ 向量库 / 文件解析 / 配置解析 ============
+chromadb
+pypdf
+pyyaml
+
+# ============ 环境变量注入 ============
+python-dotenv
